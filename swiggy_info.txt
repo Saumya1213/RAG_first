@@ -1,0 +1,289 @@
+Swiggy is India’s largest online food item ordering & delivery chain, it also tops the chart of India’s Unicorn startup lists. It’s a Bangalore-based startup started in 2014, and as of now, it’s expanded to more than 100 Indian cities. Swiggy propelled quick pick-and-drop food delivery applications to make the life of people simpler. It gives a single window to request from an extensive variety of restaurants along with an entire food entering and conveyance arrangement that connects neighbourhood eateries with foodies.
+
+Swiggy came into existence in the year 2014 when two BITS Pilani graduates, Sriharsha Majety and Nandan Reddy came up with the concept ‘Hyper-local food delivery’. They got acquainted with Rahul Jaimini, who rejuvenated this vision with a principle site.
+
+In August 2014, Swiggy started activities by joining a couple of eateries in the city of Koramangala in Bengaluru. Following that, they started conveying food to their clients in just 40 minutes.
+
+Soon after this, in May 2015, Swiggy raised its initial round of financing and came up with the application. Through this innovative app, one can get incredible food right to their doorstep and evolve their living standard.
+
+Now, Swiggy is getting almost 5 Million traffic per month organically with more than 6.5 thousand backlinks. (As per Ahrefs.com)
+
+Here is the organic traffic growth chart of Swiggy since January 2017.
+
+As the food ordering and delivering food giants, they are now growing more digitally by launching various platforms and increasing their services because of conditions like “ when you don’t want to go out to the restaurant, then they bring the restaurant to you.
+
+Swiggy has multiple offerings and services for its clients- Swiggy Pop, a single-serve meal delivery service in 30-35 minutes. A selection of items like Indian Thalis, bowl meals, biryanis, burgers, and Asian combos is included in the Swiggy POP menu. All the single-serve meals that come between ranges Rs.99-200 will be delivered in a short time.
+
+The other categories of services that come under Swiggy are Swiggy Cloud, the cloud kitchen service, and Swiggy Stores.
+
+Recently, Swiggy has just launched a platform for partners known as ‘Swiggy Partners’ where they can request for the premium packaging material. It will help them get the service at a reasonable price and will ensure a better customer experience.
+
+The start-up initially started with delivering basic food items and perishables from nearby stores. In September 2019, it propelled a new service ‘Swiggy Go’ (very Similar to the Dunzo Business Model) which is used to pick and drop a wide array of items such as clothing, forgotten keys, documents, or deliveries to business persons and other customers. Swiggy Go is currently accessible just in Bangalore, however, said it will expand the service in more than 300 urban cities in a year or so.
+
+In 2015, Swiggy started pulling investments from various organizations. The very first investment was by Accel and SAIF Partners which is $2 million. In the following year, Swiggy managed to raise $15 million from new financial specialists, Bessemer Venture Partners and Harmony Partners.
+
+In the next year 2017, Swiggy raised an additional $80 million from Prosus & Naspers and again $100 million from Prosus & Naspers in 2018.
+
+In the year 2018, they raised a funding of $210 million from DST Global, Prosus & Naspers. By investing a $1 Billion by naspers with the total stake of 40.6% of the whole in Swiggy, and become the largest stakeholder in Swiggy.
+
+Recently in 6 April, 2020, they received the $43 million in series-I round funding.
+
+Swiggy is growing its business at a rapid scale and the revenue generation model of the company is simultaneously expanding.
+
+Delivery Charges: The main sort of income stream Swiggy acquired is from its customers. The company collects delivery charges from customers on the order that costs less than their minimum order of Rs. 250. A charge of 20 to 40 rupees is charged on per order.
+
+Commissions: Swiggy acquires another major part of the revenue stream from commissions. It collects commissions from restaurants to generate sales leads and to deliver their food items through Swiggy’s application. Restaurants have to pay 15% to 25% on every order placed from Swiggy’s site.
+
+Advertisement: Swiggy also procures advertising income in different ways. It shows advertisements of different restaurants on its app and charges address cost to get them promoted in various regions. Also, some restaurants and cafes pay premium rates to Swiggy to get prioritised on the app from the list of accessible eateries.
+
+Swiggy Access: The start-up has come up with the most innovative idea i.e. cloud kitchen idea. It gives its restaurant partners a ready-to-use kitchen area in those zones where they don’t work. It brings food closer to its customers and empowers restaurants to set up their kitchen in new areas. Swiggy expects to get 25% of income from Swiggy access facility and incorporated 30 partners with 36 kitchens.
+
+Swiggy earns subsidiary income as well by collaborating with different financial institutions such as Citibank, HSBC and ICICI Bank. It gives both the parties mutual benefit. It permits clients to get a few charge card offers from these organizations.
+
+Swiggy has joined hands with the fastest-growing fast-food outlet, Burger King, Goli Vada Pav, Cafe Coffee Day for giving delivery services.
+
+It additionally has cooperated with Google Local Guide to encourage client reviews and with Sodexo to empower clients for paying through metal cards.
+
+It banded together with Indifi Technologies to encourage a financing program for restaurant partners.Swiggy launched its own payment wallet ‘Swiggy Money’ in partnership with ICICI bank. The customers who don’t possess a bank account with ICICI can also avail the benefits of these services.
+
+Swiggy initiated a new promotional campaign and explored a novel food combo. The campaign has a slogan ‘Ghar ka Khana, Saath Mein Thoda Swiggy’! The company draws this idea by observing that Indian purchasers like to supplement their home-prepared the food with some ordered dishes from Swiggy.
+
+
+
+Swiggy makes the customer eating experience delightful where shoppers can complement their preferred food with the food they love ordering from outside. The Start-up advertised the campaign through TV plugs and digital platforms and tried to connect emotionally with their customers.
+
+Swiggy currently stands with a net worth of 3.6 billion at the end of the financial year 2020.From 2019, Swiggy underwent its expansion from 17 cities to 245 locations and is planning to expand it furthermore.
+
+Another vision of the company is the transformation into an AI (Artificial Intelligence) first product.
+
+Swiggy recently acquired the Kint.io on 4 February, 2019,
+
+Swiggy also made the two investments in the Fingerlix with the total amount of $143 million.
+
+Yes, Swiggy is an Indian brand started in 2014 from Bangalore.
+
+Swiggy Tagline: Swiggy Karo, Phir Jo Chahe Karo!
+
+Swiggy current valuation is more than 8.54 billion US dollars.
+
+
+
+The Associate Software Developer (ASDE) Role:
+
+At Swiggy, it has always been our mantra to raise the bar in tech talent. And it is with the same spirit that we bring an industry pivoting role in the developer talent segment — Associate Software Development Engineer (aSDE). 
+
+As an aSDE, you will be uniquely positioned at the intersection of product development and technology, with the aim to revolutionise the way we approach software engineering, and in turn enhance both collaboration and innovation practices.
+
+To ensure you are set up for success from the very beginning, we have introduced a customised training and immersion programme, tailor-made to the ever evolving need of the business and technology. 
+
+This comprehensive programme will cover a spectrum of technical concepts, language skills and real world problem solving case studies. We believe this will provide you with a holistic understanding of the responsibilities associated with the role and will propel you in your developer journey far beyond.
+
+All of this comes with the added benefit of working at Swiggy, where we build innovative solutions to deliver unparalleled convenience to urban consumers. Furthermore, every bit of your work at Swiggy will help elevate the lives of our users across India.
+
+
+
+What work looks like at Swiggy
+
+The years 2020 and 2021 have been nothing short of a rollercoaster ride. Both people and organizations have adapted in different ways to a new environment, while ensuring safety and productivity. At Swiggy, we learnt valuable lessons and have not only successfully coped with the novel ways of working, but also pushed our boundaries to keep our customers delighted during the most uncertain and difficult of times.  
+
+While our business continues to efficiently operate and grow amid these changes, we asked ourselves  ‘What would the future of work look like for our employees?’. Two things stood clear, a one-size-fits-all approach doesn’t work for everyone and in-office attendance is not a necessity nor a guarantee of increased productivity. 
+
+For instance, some of our best work got done during the pandemic including the birth of Swiggy Instamart, our quick commerce grocery delivery service and Swiggy Genie, our pick up and drop service. We’ve been able to achieve this with Swiggsters working out of 487 cities in 27 States and 4 UTs across the country. 
+
+Learnings from an employee-centric process
+
+As we spoke to our employees across different roles and levels, about 1,600 of them, spread across 20 locations, we began to understand their preferences and perceptions. Our intent was to truly empower them in this decision making process. Findings of our study made a lot of things clear-
+
+
+The concept of “office” itself had evolved dramatically both for employees and the organization.
+
+Flexibility can bring the teams closer and make employees more fulfilled. In the two years that employees have been working from anywhere (WFA) we have introduced paid time off, no meeting hours, four-day work weeks (implemented during May 2021 as a pilot), and many such need-based initiatives, which have brought about a sense of belonging at Swiggy. 
+
+Mental health must be given more importance. Most employees greatly value the flexibility that the pandemic has brought with it. Whether it was the JOMO (Joy of Missing Out) on traffic or being by the side of a parent or family member, time with loved ones is deeply cherished. Families made them feel more fulfilled and do better at work.
+
+Swiggy’s WorkNext Policy – Flexibility makes us fitter
+
+
+Swiggy has a diverse workforce from engineers who build products and solve complex customer challenges to our sales and support teams that keep Swiggy going. Guided by our commitment to ensure the holistic well-being of our employees, we rolled out a hybrid work policy in November 2021. Since then, we are excited to see how Swiggsters are leveraging this flexibility to build fulfilling careers while balancing their personal life with great ease.
+
+At the core of our Future of Work is Flexibility. Our focus was to enable employees with as much flexibility in their work life within the contours of their job and business unit they are a part of. We observed global and local talent  trends while also having our ears to the ground listening to the pulse from employees, managers and leaders. 
+
+We realized that flexibility was a spectrum based on the job nature and the business needs and the key challenge was balancing this with employee needs. We wanted to enable employees while empowering businesses.  We also had to unlearn a lot and adopt new mental models while stepping into the future. Our Value of ‘Always be curious and always be learning’ helped us in this journey. 
+
+Swiggy’s Future of Work policy is structured taking into account the different roles and business needs across the organisation and empowers managers and leaders to work along with their teams and choose what works best for them.
+
+Employees will come to the office twice or thrice a week at their base location and work remotely for the remaining days. Eg: Partner facing roles
+
+Employees will have the freedom to work remotely all through the year. These employees, who form a large majority, will come together in their base location for a week, once every quarter. Eg: All Corporate, Central Business Functions and Technology teams
+
+Employees will work fulltime from their base location. Eg- Fleet managers
+
+In the last two years, several employees have decided to completely relocate, some of them choosing to remain 100% remote permanently. We will continue to consider such requests if team dynamics and business goals are unaffected. This also means that global talent can now explore Swiggy as their potential employer. 
+
+
+With this future of work promise, we will continue to actively invest in reimagining employee experience, innovations in work and workplace experience to build a truly remote first organization. Our focus is on purpose, passion & play – building a culture with a strong purpose to make a difference, passion to master the craft while nurturing a strong innovation mindset. 
+
+To keep track of the latest roles that Swiggy has to offer, visit this link – https://careers.swiggy.com/
+
+Swiggster Stories – What work looks for me now!
+
+Sharmishtha works in the Product team at Swiggy and the new policy has allowed her to truly work from anywhere. She’s currently on a ‘workation’ in Europe.
+
+
+Sandeep Singh leads Procurement as part of the Supply Chain team at Swiggy and oversees a complex system with a team of reportees. Due to the nature of his role, he comes to the office twice a week and works from home for the remaining days.
+
+
+Abhinav Litkar is a Senior Manager in the Data Sciences team at Swiggy. Saving valuable time on his daily commute to office, Abhinav is meaningfully spending his spare time pursuing his hobbies. He is eagerly looking forward to meeting his colleagues during the in-person regrouping scheduled once every quarter.
+
+
+Living with the Pandemic
+
+Health experts have cautioned against dropping our guard too fast. We are acutely aware that each of us is responsible to demonstrate Covid-appropriate behavior. Swiggy follows strict Covid protocols including scheduled office sanitization, temperature checks, masking and more. 
+
+We conduct regular audits on these safety protocols and constantly remind our employees about the little things they should not forget.
+
+
+
+Swiggy’s new policy enables employees to pick up gigs outside the company
+
+With the latest policy employees can now pick up projects beyond work that add to their professional and mental well-being.
+
+What if we told you that you can do your full time job at Swiggy and pick up additional projects outside work, and the company will support you to engage in them? Well, that’s exactly what Swiggy’s latest employee-first — ‘Moonlighting Policy’ — is all about.
+
+Swiggy trusts that its employees can excel in their performance, while picking up interesting projects outside work. Which is why the team came up with the policy.
+
+Yamini Koganti, AVP – HRBP, who is reimagining Swiggy’s Benefits offerings, worked on this policy since its conception. Explaining the need, she says, “Swiggy has always strived to create employee-first benefits. Over the last two years, we observed that some of our employees were getting opportunities to render gig services, leveraging their professional skills outside work. Some even discovered new hobbies during the lockdown and have been keen to pursue them now because they find time due to remote-first ways of working. To solve this need of employees we came up with an  industry-first Moonlighting policy. Yamini says,
+
+With this policy, our goal is to enable employees to pursue their passions for economic interests alongside their  full-time employment. This is yet another step towards building a world class ‘remote-first’ organization.”
+
+To be employee-centric, the team also wanted to design the policy mechanisms in a way that makes it simpler for an employee to undertake these gigs. “With that in mind, the projects have been divided into two buckets A & B. List A projects are high-sensitive, leveraging professional know-how. List B are projects that fall under the space of interests and hobbies, that are non-professional in nature,” she says. 
+
+According to the policy, projects that are picked up for economic consideration and/or fall under List A will need to be declared. The employee can pursue these projects once they are approved by Swiggy.
+
+“Any project or activity that is taken up outside office hours or on the weekend, without affecting productivity, and does not have a conflict of interest, can be picked up by the employees. The employee will have to declare a few necessary details so that the team can greenlight the project,” she says.
+
+Currently, the HR team has 10 projects lined up for approval, with Goda Doreswamy, AVP Data Science, being one of the first to get her project approved. Speaking about the policy and how it helps her, Goda says, “Moonlighting is one of the most interesting policies of Swiggy, all of which are employee-centric. This enables the overall growth of the employee and helps them pursue their passion outside Swiggy.”
+
+
+
+Our Culture and Benefits for the employees makes it one of the best places to work.
+
+Swiggy is an equal-opportunity employer that offers a variety of employee-centric benefits such as competitive salaries, comprehensive health benefits, and exciting equity opportunities. With this in practice, we like to empower and motivate our employees to boost their efforts towards realizing Swiggy’s vision, ‘To elevate the quality of life for the urban consumer with unparalleled convenience.’
+
+We at Swiggy Offer flexible schedule, Upskilling program, Hybrid remote Work Options, Opt for Salary Advance, Free holistic Wellness Offerings, Relocation Assistance, Inclusive Parenthood Support, Moonlighting Policy.
+
+
+
+As a company, Swiggy is famous for what it does – delivering unparalleled convenience to millions of Indian doorsteps every day. But what we do, relies heavily on who we are and what we believe in. Here’s a glimpse into the Swiggy values, and how they have come to shape our identity.  
+
+For years, Swiggy has been changing the way Indians eat. We are now on our way to transform how India lives, works, and innovates. With our actions and decisions strongly defined by the Swiggy values every step of the way, our growing universe of Swiggsters has been through all the ups and downs together. From delivering food to providing unparalleled convenience, the journey has been punctuated by constant growth and yet, we believe we’ve just begun!
+
+Organisations have distinct identities and values that transcend cultures and time zones. These are formed by beliefs and are derived from experiences, observations, and learnings. And the first step in creating a company culture is building a solid foundation based on core values. It is this that shapes our vision.
+
+Swiggy’s Head of Human Resources, Girish Menon discusses how our values came to be, creating a guiding force that drowns out all distractions and propels us toward our mission. “One thing which has been constant is that we’ve always been an employee first company and a values driven company. The seriousness with which we went with the values, the creation of values, is impeccable. And I think that’s the bedrock of our culture today.”
+
+Swiggy’s values are built on steadfast principles: to be, think, and act like a true Swiggster.
+
+1. Be Humble. Along with being vocally self-critical, we recognize that we do not always have the answers. We value ideas based on merit rather than hierarchy, and we encourage strong opinions. Treating each other and employees with respect and dignity is of utmost importance.
+
+2. Always be Curious, Always be Learning. We ask the right questions and pursue answers relentlessly. We believe in lifelong learning, whether it comes from  colleagues, competitors, partners, or vendors.
+
+3. Be Honest, Display Highest Level of Integrity. We value conversations that are brutally honest and support dispassionate truth-finding. We have no qualms about defending our choices both internally and externally. When in doubt, we clarify before taking action. 
+
+4. Consumer Comes First. We are paranoid about consumer experience and measure success by the impact we create. We spend time listening to and deeply understanding what our consumers need.
+
+Swiggy firmly adheres to the value of  ‘Consumer First,’ says Rohan Mathur, General Manager of Customer experience and Operations.
+
+5. Display a Founder Mentality. We encourage everyone to embrace their uniqueness and take personal responsibility, which demonstrates a founder mentality. We take pride in focusing on long-term success rather than short-term gains. 
+
+Prasanna Venkatesh, Senior Product Design Manager at Swiggy, talks about the importance of ownership.
+
+6. Think Win-Win. We recognise that success is not a zero-sum game and seek ways for our partners – whether delivery partners or vendors – to succeed alongside us through cross functional teamwork. We solve problems by first understanding one another’s points of view and then proposing win-win solutions.
+
+7. Think Big. We set new standards and create a vision that is both bold and inspiring. We venture into new territory and believe in challenging the status quo. Accepting new challenges motivates us, and we take pride in being tenacious.
+
+8. Stand-up & Disagree but Commit Fully. We form thoughtful opinions and express them without fear. We actively participate in constructive criticism and once a decision is made, we fully commit. 
+
+9. Do More with Less. We are resourceful and work efficiently. We use our resources wisely in order to maximize impact. We look for ways to simplify problems and reduce complexity.
+
+10. Move Fast, Break Barriers and Deliver Results. We recognise that speed is a competitive advantage and act with urgency. We hold each other accountable and work together to break barriers in order to make an impact. Being result oriented is what truly counts.
+
+11. Never Settle. We don’t settle and believe in pushing the limits. We set unreasonably high standards and prevent problems rather than react to them. We strive for 1% improvement every day, keeping the big picture in mind.
+
+Why We ‘Value’ Being a Swiggster 
+
+Our ultimate goal as Swiggsters is to make a difference in the lives of millions by reimagining how they experience convenience. We recognise that achieving this requires us all to be in sync with one another and with our larger vision.
+
+Which is why we don’t just state our values; we live by them. 
+
+Our CEO and co-founder Sriharsha Majety, shares his insights on why and how our values define us. “We knew we needed to create a place where I and every Swiggster could come in and do the best work of our lives, with a guiding force so powerful that it drowns out all the distractions. Our values are, at the end of the day, the fabric that holds us together, that creates the identity and culture for the company we are. To me, culture is the most important oxygen for a company. It is our lifeblood.”
+
+Our values play a pivotal role in shaping Swiggy’s growth and the development of Swiggsters. These 11 values form our ethos and culture, remaining a true constant in a world where everything changes at a dizzying speed. As we forge ahead, we are determined to chase our vision to redefine convenience for urban consumers, every step of the way. 
+
+
+
+Over the course of the last six years, Swiggy has rapidly grown from a food delivery service, catering to a small neighbourhood in Bangalore, to a nationwide ‘convenience-as-a-service’ provider. One that millions of customers have come to depend on as a reliable and trustworthy platform. But the journey was no walk in the park. During the course of these developments, we encountered several, diverse technical challenges, and along the way developed best practices and solutions that we would like to share through a series of blogs.
+
+To kick it off, I wanted this blog to provide a broader perspective on Swiggy’s backend requirements and technical challenges organized into three core themes. In the series that follows this post, we will deep-dive on specific problems to provide a more in-depth understanding and solutions we have explored.
+
+Problem Statement 1:Computational Complexity at Scale
+
+When a customer opens the app, Swiggy performs a set of computations to deduce a set of available and serviceable restaurants. ‘Serviceable’’ in this context means that the customer’s location and the restaurant location are ‘nearby’ and that there is enough delivery capacity ‘around’ the restaurant location to be able to service a particular order. As you can imagine, figuring out ‘nearby’ restaurants is not as simple as a radial distance from a customer’s location. We need to factor in aspects such as road accessibility, traffic conditions, travel time, etc. For a deeper overview of serviceability, please read this blog. Adding to these intricacies, we also need to evaluate an ETA for each restaurant that is displayed to the customer, along with personalized (specific to customers, restaurants, etc) promotions, ranking of the restaurants based on various criteria, and organize them based on collections that are most relevant for a given customer, location, time slot combination. Hence, we are performing a whole bunch of computations on a per <Customer ID, Restaurant ID> combination. In a densely populated city like Bangalore, there could be over 1000 restaurants that are serviceable from a given location and if 1000 customers open the app, at the same time (say during dinner peak), we need to be able to perform over 1 million computations per second. Even so, this needs to be performed within a latency period of a few hundred ms as all of this computation is holding up the home page load for the customer.
+
+
+Given this context, it is extremely intriguing to look at our load patterns, which highlight daily and weekly variations. If you look at the daily load pattern graph for one of our storefront services, you will notice that we have to scale from practically 100K rpm to 300K rpm to serve customers during lunch time. You will notice a similar, but elevated (around 500K rpm) pattern for dinner traffic.
+
+
+The weekly camel hump pattern is also interesting where you will notice a slightly higher load during weekends. Hence, we have probably 4–6 hours peak traffic and practically no traffic for 6–8 hours a day. Since it is not cost-effective to scale for peak, we will need to autoscale compute and storage capacity to follow the demand graph as closely as possible.
+
+Problem Statement 2:Availability and Fault Tolerance
+
+At Swiggy, we have adopted a microservices architecture where hundreds of services participate in the order fulfilment process. Further, to reduce the page load latency for the customer, we perform several operations in parallel, causing a high fanout factor for a given microservice. In such an environment, it is very important to ensure that failures are localised and we take systematic steps to limit the blast radius in the event of a failure. Consider, for example, the following call graph where a customer-facing service S1 calls two dependent services S2 and S3 (in parallel). Further, S2 and S3 call S5 creating a diamond-shaped call graph pattern and increased load on S5 (or in general for any tail service). If S5 begins to a brownout, it is important to localise the fault within its upstream services (S2 and S3) and prevent it from impacting S1.
+
+
+Additionally, with an average fan-out factor 3–5x, in order to render a page in a few hundred ms latencies, several services end up with a latency budget of ~50 ms at P99. In this situation, it is legitimate to use a caching layer to reduce API latencies. We use several different strategies (watch for a future blog article on this) to keep the cache coherent with the persistence layer. However, in the event of a cache failure (or large scale cache miss), the persistence layer will be unable to service the call within the latency budget, potentially causing a cascading failure.
+
+
+Problem Statement 3:Multi-Tenancy and Agility
+
+Swiggy has evolved from a just food delivery to a multi-category marketplace where we provide our customers with unparalleled convenience as a service. Other services include Swiggy Instamart for ordering daily essentials and Swiggy Genie which allows customers to pick and drop anything within an urban area. This could be picking up medicines from a local pharmacy, getting books delivered from your child’s school, etc. In fact, this service was immensely helpful for our customers, especially during Covid time.
+
+From an architectural perspective, this means that divergent customer experiences need to be supported with an underlying set of shared hyperlocal eCommerce primitives. We need multi-tenant systems across order management, promotions, pricing, delivery logistics, driver experience, vendor management, etc that can support variations in use cases. As an example, for a food order, there is a specific menu item and price in a catalog that customers pay for before an order is placed. Contrast this with a genie order where a task is going to be performed for which the final price is only known during the execution of the task. Further, the fulfilment workflows also vary for store items (fixed inventory) versus food delivery.
+
+
+Hence, building siloed systems for each business line or category will not help create an agile platform that can adapt to ever-changing business conditions. Lastly, given the microservices architecture, it is important to ensure that individual use cases for different business lines can be developed, tested and deployed in a federated manner to maximise the speed of execution.
+
+
+
+Joining Swiggy as a fresher can be an exciting opportunity, but there will also be challenges to overcome. Here's a breakdown of some potential hurdles you might encounter:
+
+Work Pressure and Deadlines:Fast-paced environment: The food delivery industry is known for its rapid pace. You might experience tight deadlines, high order volumes, and pressure to deliver results quickly.
+
+Adapting to workload: As a fresher, you might need to adjust to a more demanding workload compared to your academic experience.
+
+Technical Challenges:Learning the ropes: You'll likely need to learn Swiggy's specific technologies, processes, and codebase. This can involve a learning curve, especially if you're new to the industry.
+
+Technical complexities: Depending on your role, you might encounter complex technical problems related to order management, logistics optimization, or data analysis.
+
+Non-Technical Challenges: Communication and Collaboration: Working effectively with a team, including senior developers, product managers, and operations personnel, is crucial.
+
+Problem-solving and critical thinking: You'll need to identify and solve problems that arise in the fast-paced delivery ecosystem.
+
+Adaptability and Change: The industry and technology landscape are constantly evolving. Be prepared to learn new things and adapt to changes in the way Swiggy operates.
+
+Additional Challenges (Depending on Role):
+
+Delivery Partner Management (if applicable): Understanding delivery partner concerns, managing disputes, and ensuring smooth operations can be challenging.
+
+Customer Support (if applicable): Dealing with customer complaints, especially during peak hours, can require patience and effective communication skills.
+
+
+Tips for Overcoming Challenges:
+
+Be proactive and eager to learn: Take initiative to learn from your colleagues and ask questions when you're unsure.
+
+Develop strong communication skills: Be able to articulate your ideas clearly and collaborate effectively with your team.
+
+Embrace challenges: View challenges as opportunities to learn and grow your skillset.
+
+Stay organized and manage your time effectively: This will help you meet deadlines and handle a demanding workload.
